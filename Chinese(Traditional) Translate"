@@ -189,7 +189,7 @@
 
     <!-- Hand wave gesture -->
     <string name="hand_wave_gesture_title">揮手</string>
-    <string name="hand_wave_gesture_summary">揮手顯示通知 on hand wave</string>
+    <string name="hand_wave_gesture_summary">揮手顯示通知</string>
     <string name="hand_wave_gesture_flat_title">Detect orientation</string>
     <string name="hand_wave_gesture_flat_summary">將電話朝下即可靜音通知和來電</string>
 
@@ -242,8 +242,8 @@
     <string name="selinux_permissive_summary">允許</string>
     <string name="selinux_enforcing_summary">執行</string>
     <string name="selinux_persistence_title">重新啟動後仍然維持</string>
-    <string name="selinux_persistence_summary">在每次啟動時恢復上述設置的Sepolicy模式</string>
-    <string name="selinux_permissive_toast_title">Selinux設置為寬鬆執行！</string>
-    <string name="selinux_enforcing_toast_title"> Selinux設置為強制執行！</string>
+    <string name="selinux_persistence_summary">在每次啟動時恢復上述設定的Sepolicy模式</string>
+    <string name="selinux_permissive_toast_title">Selinux設定為寬鬆執行！</string>
+    <string name="selinux_enforcing_toast_title"> Selinux設定為強制執行！</string>
 
 </resources>
