@@ -12,7 +12,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="advanced_settings">ZenParts</string>
-    <string name="advanced_settings_summary">設備自訂義 Customisations</string>
+    <string name="advanced_settings_summary">客製化 Customisations</string>
 
     <string name="display_title">顯示</string>
 
@@ -21,7 +21,7 @@
     <string name="kcal_enabled_summary">Calibrate Display Using KCAL</string>
 
     <!-- Backlight Dimmer -->
-    <string name="backlight_dimmer">更暗螢幕背光</string>
+    <string name="backlight_dimmer">更暗螢的螢幕背光</string>
     <string name="backlight_summary">使螢幕亮度顯示更暗</string>
 
     <string name="torch_title">手電筒</string>
