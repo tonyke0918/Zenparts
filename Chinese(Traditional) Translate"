@@ -148,7 +148,7 @@
     <string name="fastcharge_summary">當連接到USB3.0接口時,充電提升至900mA。</string>
 
     <!-- menu -->
-    <string name="kcal_presets" translatable="false">@字符串/預設對話框標題</string>
+    <string name="kcal_presets" translatable="false">@string/presets_dialog_title</string>
     <string name="kcal_reset">重置</string>
 
     <!-- Custom seekbar -->
