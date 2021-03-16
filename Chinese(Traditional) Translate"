@@ -149,7 +149,7 @@
 
     <!-- menu -->
     <string name="kcal_presets" translatable="false">@string/presets_dialog_title</string>
-    <string name="kcal_reset">重置</string>
+    <string name="kcal_reset">Reset</string>
 
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">數值: <xliff:g id="v">%s</xliff:g></string>
